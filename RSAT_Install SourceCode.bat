@@ -13,7 +13,6 @@ echo Please type in which package you would like to install
 echo Example: Windows[V]KB[NUMBERS]-[AT].msu
 echo Example: Windows8.1KB1234567-x86.msu
 echo V: Version 
-echo NOTE: some
 echo NUMBERS: Unique download number/code (Example 1234567)
 echo AT: Architecture of PC, Example: x86 and x64
 echo.
