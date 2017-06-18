@@ -4,8 +4,11 @@ About RSAT_Installer
 RSAT Installer is a Remote Server Administration Tools Installer that allows you to install MSU packages, So far there are only these packages. This source code can also be forked and be changed into a MSU package installer.
 
 RSAT_Windows_8_x64 (Windows6.2-KB2693643-x64.msu)
-RSAT_Windows_8_x86 (Windows6.2-KB2693643-x86.msu)
-RSAT_Windows_7_SP1_x64 (Windows6.2-Windows6.1-KB958830-x64-RefreshPkg.msu)
+
+RSAT_Windows_8_x86 (Windows6.2-KB2693643-x86.msu) 
+
+RSAT_Windows_7_SP1_x64 (Windows6.2-Windows6.1-KB958830-x64-RefreshPkg.msu) 
+
 RSAT_Windows_7_SP1_x86 (Windows6.2-Windows6.1-KB958830-x86-RefreshPkg.msu)
 
 Usage
