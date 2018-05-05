@@ -28,7 +28,7 @@ if %file% == Windows6.2-Windows6.1-KB958830-x64-RefreshPkg.msu goto :RSAT_Window
 if %file% == Windows6.2-Windows6.1-KB958830-x86-RefreshPkg.msu goto :RSAT_Windows_7_SP1_x86
 :RSAT_Windows_7_SP1_x86
 echo Downloading file...
-start "" https://www.microsoft.com/en-us/download/confirmation.aspx?id=7887&6B49FDFB-8E5B-4B07-BC31-15695C5A2143=1
+start "" https://download.microsoft.com/download/4/F/7/4F71806A-1C56-4EF2-9B4F-9870C4CFD2EE/Windows6.1-KB958830-x64-RefreshPkg.msu
 echo Make sure the file is saved in Downloads
 echo If the file has finished downloading press any key to continue
 goto :movefile
