@@ -23,7 +23,7 @@ The directory  \ExtractedFiles is where the expanded MSU package contents will b
 
 pkgmgr /n:Windows6.2-KB2693643-x86.XML
 
-The porgram pkgmgr will install the package from reading the XML \ExtractedFiles\Windows8\x86.
+The prorgram pkgmgr will install the package from reading the XML \ExtractedFiles\Windows8\x86.
 
 Changelog
 ----
@@ -32,6 +32,8 @@ v1.0.0 First release!
 Errors and fixes
 ----
 NOTE: If it says that PkgMgr.exe has been deprecated visit http://go.microsoft.com/fwlink/?LinkID=195329 for more help
+On Windows 10 Build 16299, PkgMgr no longer functions, therefore making code obsolete and requiring to be updated to DISM.
+
 
 
 
