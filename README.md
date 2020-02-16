@@ -1,4 +1,4 @@
-# RSAT_Installer
+# RSAT_Installer (THIS PROJECT IS NO LONGER MAINTAINED)
 About RSAT_Installer
 ----
 RSAT Installer is a Remote Server Administration Tools Installer that allows you to install MSU packages, So far there are only these packages. This source code can also be forked and be changed into a MSU package installer.
